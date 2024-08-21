@@ -73,7 +73,10 @@
         display: none;
     }
     .products{
-        width: 50%;
+        width: 75%;
+    }
+    .products-row__item{
+        width: 30.33%;
     }
     .section{
         display: flex;
