@@ -37,3 +37,4 @@ accordion[3].addEventListener('click' , ()=>{
     rotate[3].classList.toggle('rotate');
     color[3].classList.toggle('color-red');
 });
+console.log(accordion)
